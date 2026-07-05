@@ -18562,7 +18562,9 @@ GMMM-ALL|Casablanca|GMMM_ALL|GMMM-ALL
 GMMM-E|Casablanca East|GMMM_E|GMMM-E
 GMMM-N|Casablanca North|GMMM_N|GMMM-N
 GMMM-NE|Casablanca North East|GMMM_NE|GMMM-NE
+GMMM-W|Casablanca West|GMMM_W|GMMM-W
 GMMM-S|Casablanca South|GMMM_S|GMMM-S
+GMMM-SW|Casablanca South West|GMMM_SW|GMMM-SW
 GOOC|Dakar Oceanic||GOOC
 GOOO|Dakar||GOOO
 GVSC|Sal Oceanic||GVSC
